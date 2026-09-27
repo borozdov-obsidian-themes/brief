@@ -1,0 +1,17 @@
+{
+  "name": "borozdov-brief",
+  "private": true,
+  "description": "An editorial law journal on warm white: a whisper serif, black ink, square 2px corners and pale verdigris and slate washes instead of colour.",
+  "license": "MIT",
+  "scripts": {
+    "fonts": "python3 scripts/embed-fonts.py",
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}

@@ -35,10 +35,14 @@ black ink, square 2px corners and pale verdigris and slate washes instead of col
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Brief**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Ember**. Install Borozdov Ember under Settings → Appearance → Themes → Manage, then the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and choose
+**Brief** under Style Settings → Borozdov Ember → Variant. The variant brings this theme's
+palette, type and corners; its own layout, and its embedded font if it has one, come with
+the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/brief/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Brief/`, then choose Borozdov Brief under
 Settings → Appearance → Themes.
@@ -59,5 +63,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Реестр» — редакционный
 юридический журнал на тёплом белом, и тёмный «Кабинет» — тот же журнал в комнате с
 панелями. Шепчущая антиква (STIX Two), чёрные чернила, прямые углы 2px и бледные заливки
-ярь-медянки и грифеля вместо цвета. Устанавливается из каталога: Настройки → Оформление →
-Темы → Настроить → Borozdov Brief → Установить и применить.
+ярь-медянки и грифеля вместо цвета. В каталоге тема живёт вариантом Borozdov Ember: установите Borozdov Ember и плагин Style Settings, затем выберите Brief в Style Settings → Borozdov Ember → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
